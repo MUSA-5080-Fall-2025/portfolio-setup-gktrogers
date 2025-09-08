@@ -1,0 +1,35 @@
+---
+title: "Week 1 Notes - Course Introduction"
+date: "2025-09-08"
+---
+
+## Key Concepts Learned
+GitHub lingo
+- Repo(sitory) - folder for project files
+- Commit - snapshot/draft of work
+- Push & pull - sending/receiving changes via GitHub cloud
+
+Quarto
+- Like a newer version of R Markdown - same basic concept, new features (including multiple coding languages)
+- Professional presentation (can create websites, presentations, PDFs)
+- YAML header
+
+## Coding Techniques
+**Bold text**
+*Italic text*
+***Bold and italic***
+`code text`
+~~Strikethrough~~
+Use # for section headers
+[Link text](https://example.com)
+[Link to another page](about.qmd)
+![Alt text](path/to/image.png)
+
+## Questions & Challenges
+- none yet!
+
+## Connections to Policy
+- building the foundation!
+
+## Reflection
+- good to have the refresher on R - excited to be using weekly
