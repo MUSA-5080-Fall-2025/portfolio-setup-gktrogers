@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "week-01-notes.html",
+    "href": "week-01-notes.html",
+    "title": "Week 1 Notes - Course Introduction",
+    "section": "",
+    "text": "GitHub lingo\n\nRepo(sitory) - folder for project files\nCommit - snapshot/draft of work\nPush & pull - sending/receiving changes via GitHub cloud\n\nQuarto\n\nLike a newer version of R Markdown - same basic concept, new features (including multiple coding languages)\nProfessional presentation (can create websites, presentations, PDFs)\nYAML header"
+  },
+  {
+    "objectID": "week-01-notes.html#key-concepts-learned",
+    "href": "week-01-notes.html#key-concepts-learned",
+    "title": "Week 1 Notes - Course Introduction",
+    "section": "",
+    "text": "GitHub lingo\n\nRepo(sitory) - folder for project files\nCommit - snapshot/draft of work\nPush & pull - sending/receiving changes via GitHub cloud\n\nQuarto\n\nLike a newer version of R Markdown - same basic concept, new features (including multiple coding languages)\nProfessional presentation (can create websites, presentations, PDFs)\nYAML header"
+  },
+  {
+    "objectID": "week-01-notes.html#coding-techniques",
+    "href": "week-01-notes.html#coding-techniques",
+    "title": "Week 1 Notes - Course Introduction",
+    "section": "Coding Techniques",
+    "text": "Coding Techniques\n\nBold text\nItalic text\nBold and italic\ncode text\nStrikethrough\nUse # for section headers\nLink text\nLink to another page\n\n\n\nAlt text"
+  },
+  {
+    "objectID": "week-01-notes.html#questions-challenges",
+    "href": "week-01-notes.html#questions-challenges",
+    "title": "Week 1 Notes - Course Introduction",
+    "section": "Questions & Challenges",
+    "text": "Questions & Challenges\n\nnone yet!"
+  },
+  {
+    "objectID": "week-01-notes.html#connections-to-policy",
+    "href": "week-01-notes.html#connections-to-policy",
+    "title": "Week 1 Notes - Course Introduction",
+    "section": "Connections to Policy",
+    "text": "Connections to Policy\n\nbuilding the foundation!"
+  },
+  {
+    "objectID": "week-01-notes.html#reflection",
+    "href": "week-01-notes.html#reflection",
+    "title": "Week 1 Notes - Course Introduction",
+    "section": "Reflection",
+    "text": "Reflection\n\ngood to have the refresher on R - excited to be using weekly"
+  }
+]
